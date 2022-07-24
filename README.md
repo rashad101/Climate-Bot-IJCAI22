@@ -6,7 +6,7 @@ This repo includes the data and code for the demo paper with the title, **Climat
 * The evaluation guideline is available at ```/data/docs/```
 
 ## Code
-Code will be avialable soon...
+Code is waiting for the approval .... ⏰
 
 ## Demo
 A video demo of this work is made available on [Youtube](https://youtu.be/DdRh6P4sgQw)
