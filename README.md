@@ -11,4 +11,14 @@ Code will be avialable soon...
 ## Demo
 A video demo of this work is made available on [Youtube](https://youtu.be/DdRh6P4sgQw)
 
-**NB:** If you find the data and code useful, please cite this work. Please contact the author at (rashad.rony@iais.fraunhofer.de, rah.rony@gmail.com) to know how to cite this work.
+## Citation 
+If you find the data and code useful, please cite this work:
+
+```
+@inproceedings{wang2021learn,
+  title={Climate Bot: A Machine Reading Comprehension System for Climate Change Question Answering.},
+  author={Rony, Md Rashad Al Hasan and Zuo, Ying and Kovriguina, Liubov and Teucher, Roman and Lehmann, Jens},
+  booktitle={IJCAI},
+  year={2022}
+}
+```
