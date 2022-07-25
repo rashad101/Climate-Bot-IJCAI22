@@ -15,7 +15,7 @@ A video demo of this work is made available on [Youtube](https://youtu.be/DdRh6P
 If you find the data and code useful, please cite this work:
 
 ```
-@inproceedings{wang2021learn,
+@inproceedings{rony2022climatemrc,
   title={Climate Bot: A Machine Reading Comprehension System for Climate Change Question Answering.},
   author={Rony, Md Rashad Al Hasan and Zuo, Ying and Kovriguina, Liubov and Teucher, Roman and Lehmann, Jens},
   booktitle={IJCAI},
