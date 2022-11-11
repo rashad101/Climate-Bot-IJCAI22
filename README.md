@@ -19,10 +19,19 @@ A video demo of this work is made available on [Youtube](https://youtu.be/DdRh6P
 If you find the data and code useful, please cite this work:
 
 ```
-@inproceedings{rony2022climatemrc,
-  title={Climate Bot: A Machine Reading Comprehension System for Climate Change Question Answering.},
-  author={Rony, Md Rashad Al Hasan and Zuo, Ying and Kovriguina, Liubov and Teucher, Roman and Lehmann, Jens},
-  booktitle={IJCAI},
-  year={2022}
+@inproceedings{ijcai2022p729,
+  title     = {Climate Bot: A Machine Reading Comprehension System for Climate Change Question Answering},
+  author    = {Rony, Md Rashad Al Hasan and Zuo, Ying and Kovriguina, Liubov and Teucher, Roman and Lehmann, Jens},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {5249--5252},
+  year      = {2022},
+  month     = {7},
+  note      = {AI for Good - Demos},
+  doi       = {10.24963/ijcai.2022/729},
+  url       = {https://doi.org/10.24963/ijcai.2022/729},
 }
+
 ```
